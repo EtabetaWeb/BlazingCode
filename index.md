@@ -1,5 +1,5 @@
 ### Benvenuto!
-...
+[...]
 
 ### Come funziona
 ...
